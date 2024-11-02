@@ -58,6 +58,3 @@ TESTS SUCCESSFUL
 
 - **Expression Nodes (`ExprNode` and derived classes)**: Represents nodes in the expression tree (AST) for parsing and evaluating expressions.
 
-## License
-
-This project is open-source and available under the MIT License.
